@@ -21,6 +21,16 @@ The following table provides info about tutorials with links to source code and 
 4|Pong in 10 minutes|[Source code](https://github.com/amadevBox/pong)|[Video](https://www.youtube.com/watch?v=FvT9dvvfjOk)
 5|Snake in 10 minutes|[Source code](https://github.com/amadevBox/snake)|[Video](https://www.youtube.com/watch?v=dguyPUlglAg)
 6|Tetris in 15 minutes|[Source code](https://github.com/amadevBox/tetris)|[Video](https://www.youtube.com/watch?v=iBNglVi9qww)
+7|Flappy bird|-|-
+8|Asteroids|-|-
+9|Racer|-|-
+10|Tic tac toe, part 1|-|-
+11|Tic tac toe, part 2 (with WebSockets)|-|-
+12|Tanks|-|-
+13|Mario ???|-|-
+14|-|-|-
+15|-|-|-
+
 
 **[⬆ back to top](#table-of-contents)**
 
