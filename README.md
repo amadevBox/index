@@ -5,7 +5,7 @@ Here you can find list of all [amadev's](https://www.youtube.com/channel/UCCJrX7
 
 ## Table of Contents
 
-1. [Let's make 15 games in JavaScript](#let's-make-15-games in-javaScript)
+1. [Let's make 15 games in JavaScript](#let's-make-15-games-in-javaScript)
 1. [Canvas Advanced](#canvas-advanced)
 
 ## Let's make 15 games in JavaScript
