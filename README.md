@@ -14,7 +14,7 @@ Here you can find list of all [amadev's](https://www.youtube.com/channel/UCCJrX7
 The following table provides info about tutorials with links to source code and to the video:
 
 Title|Source code|Video
---|--
+--|--|--
 2048 in 15 minutes|[Source code](https://github.com/amadevBox/2048)|[Video](https://www.youtube.com/watch?v=tveTp3w3Wsg)
 Arkanoid in 15 minutes|[Source code](https://github.com/amadevBox/arkanoid)|[Video](https://www.youtube.com/watch?v=n-ClUYPBHng)
 Conway's Game of Life in 100 lines|[Source code](https://github.com/amadevBox/game-of-life)|[Video](https://www.youtube.com/watch?v=PCowC5mSuUg)
@@ -31,7 +31,7 @@ Tetris in 15 minutes|[Source code](https://github.com/amadevBox/tetris)|[Video](
 The following table provides info about tutorials with links to source code and to the video:
 
 Title|Source code|Video
---|--
+--|--|--
 How to draw a tree using recursion and canvas|[Source code](https://github.com/PavlyukVadim/amadev/tree/master/RecursiveTree)|[Video](https://www.youtube.com/watch?v=JjXMXBwL1P0)
  Visualizing music with Web Audio API|[Source code](https://github.com/PavlyukVadim/amadev/tree/master/Visualizing%20music)|[Video](https://www.youtube.com/watch?v=DHxtc4W46Qo)
 JavaScript: How to Create Paint!|[Source code]()|[Video](https://youtu.be/53IjwM1OJ1Y)
