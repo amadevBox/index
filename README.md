@@ -21,16 +21,17 @@ The following table provides info about tutorials with links to source code and 
 4|Pong in 10 minutes|[Source code](https://github.com/amadevBox/pong)|[Video](https://www.youtube.com/watch?v=FvT9dvvfjOk)
 5|Snake in 10 minutes|[Source code](https://github.com/amadevBox/snake)|[Video](https://www.youtube.com/watch?v=dguyPUlglAg)
 6|Tetris in 15 minutes|[Source code](https://github.com/amadevBox/tetris)|[Video](https://www.youtube.com/watch?v=iBNglVi9qww)
-7|Road Fighter, part 1|[Source code](https://github.com/amadevBox/road-fighter/tree/9acf6f6534d900bb3b25ebf365619dfba46e1745)|-
-&nbsp;|Road Fighter, part 2|-|-
-8|Flappy bird|-|-
-9|Asteroids|-|-
-10|Tic tac toe, part 1|-|-
+7|Road Fighter, part 1|[Source code](https://github.com/amadevBox/road-fighter)|[Video](https://www.youtube.com/watch?v=lKpZX3UJl4o)
+&nbsp;|Road Fighter, part 2|[Source code](https://github.com/amadevBox/road-fighter)|[Video](https://www.youtube.com/watch?v=DgCsvephx68)
+&nbsp;|Road Fighter, part 3|[Source code](https://github.com/amadevBox/road-fighter)|[Video](https://www.youtube.com/watch?v=UUGezgWSJfY)
+8|Match 3 game|-|-
+9|Flappy bird|-|-
+10|Asteroids|-|-
+11|Tic tac toe, part 1|-|-
 &nbsp;|Tic tac toe, part 2 (with WebSockets)|-|-
-11|Tanks|-|-
-12|Mario ???|-|-
-13|-|-|-
-14|-|-|-
+12|Tanks|-|-
+13|Battleship game|-|-
+14|Mario ???|-|-
 15|-|-|-
 
 
